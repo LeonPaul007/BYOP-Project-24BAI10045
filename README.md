@@ -45,13 +45,13 @@ Student-Expense-Tracker/
 ### 1️⃣ Clone the Repository
 
 ```
-git clone https://github.com/your-username/Student-Expense-Tracker.git
+git clone https://github.com/LeonPaul007/BYOP-Project-24BAI10045.git
 ```
 
 ### 2️⃣ Navigate to Project Folder
 
 ```
-cd Student-Expense-Tracker
+cd BYOP-Project-24BAI10045
 ```
 
 ### 3️⃣ Compile the Java Files

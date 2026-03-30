@@ -32,16 +32,10 @@ Many students struggle to keep track of their daily spending, which can lead to 
 
 ```
 Student-Expense-Tracker/
-│── src/
 │   ├── Main.java
 │   ├── Expense.java
 │   ├── ExpenseManager.java
-│
-│── data/
-│   └── expenses.txt
-│
-│── README.md
-│── .gitignore
+
 ```
 
 ---

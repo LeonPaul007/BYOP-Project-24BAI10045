@@ -78,7 +78,7 @@ java -cp src Main
 Enter choice: 1
 
 Enter Title: Lunch
-Enter Amount: 150
+Enter Amount: 120
 Enter Category: Food
 Enter Date (YYYY-MM-DD): 2026-03-29
 Expense Added Successfully!
@@ -97,7 +97,7 @@ data/expenses.txt
 Example:
 
 ```
-Lunch,150.0,Food,2026-03-29
+Lunch,120.0,Food,2026-03-29
 Bus Ticket,50.0,Travel,2026-03-29
 ```
 
